@@ -1,0 +1,4 @@
+TeamA Midfielder PlayerA 1 2 1 2 4
+TeamA Forward PlayerB 4 5 9 5 8
+TeamB Defender PlayerC 1 6 8 6 2
+TeamB Forward PlayerD 5 3 7 3 0

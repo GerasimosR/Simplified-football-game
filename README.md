@@ -1,3 +1,4 @@
+# Simplified Football Game
 The game evolves into a grid as shown in the following pictures and for simplification we think that a footballer moves only horizontally (he always remains in the same line) and also if he has the ball he can also transfer it to a particular line again. For example, player Π can only move to the blue area and send the ball to the yellow line. If the ball is in the green or red area then there is a chance of a goal being scored by the corresponding team.
 
 ![map](https://raw.githubusercontent.com/GerasimosR/Simplified-football-game/master/map.png)
